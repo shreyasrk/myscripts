@@ -3,7 +3,6 @@ def main():
     result = ''
     for str in strings:
 	result += ' ' + str
-
     return result
 
 if __name__ == '__main__':
